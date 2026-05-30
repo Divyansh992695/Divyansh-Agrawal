@@ -1,0 +1,6 @@
+{
+  "name": "Todo Organiser",
+  "description": "A modern, mobile-optimized tasks and dashboard planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
